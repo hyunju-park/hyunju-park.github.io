@@ -10,7 +10,5 @@ url: "http://hyunju-park.github.io/" # the base hostname & protocol for your sit
 twitter_username: Nero_hj
 github_username:  hyunju-park
 
-disqus_shortname: hyunju_park
-
 # Build settings
 markdown: kramdown
