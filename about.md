@@ -4,8 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<h3>Skills</h3>
+<li>Languages: C/C++</li>
+<li>Target Platform OS :  Windows CE 6.0, Windows Mobile 6.5</li>
+<li>Target AP : TI AM3715, Marvell PXA 320</li>
+<li>Driver : Camera, Keypad, ...</li>
+<li>Application : Phone migration, Camera, ...</li>
+<br>
+Education<br>
+	*<br>
