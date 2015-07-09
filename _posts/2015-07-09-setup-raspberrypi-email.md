@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Install e-mail server on the raspberry pi2"
-date:   2015-07-09 18:00:00
+date:   2015-07-09 17:20:00
 categories: install
 ---
 
