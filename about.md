@@ -12,7 +12,7 @@ permalink: /about/
 <li>Application : Phone migration, Camera, ...</li>
 
 <h3>company</h3>
-M3Mobile
+<li>M3Mobile</li>
 <br>
 Education<br>
 	*<br>
