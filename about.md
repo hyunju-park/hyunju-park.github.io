@@ -1,13 +1,18 @@
+
+
+
 ---
 layout: page
 title: About
 permalink: /about/
 ---
 
-<h3>develop device driver</h3>
+<h2>Mobile Computers</h2>
 
-Device Project
-M3 OX10 - 1G - Windows Embedded Handheld 6.5 / Windows CE 6.0 1GHz CPU
-- porting USB/Image Scanner/Camera/Battery
-M3 BLACK - Windows Embedded Handheld 6.5 / Windows CE 6.0 1GHz CPU
-- porting Image Scanner/Camera
+<h3>M3 OX10 - 1G
+<li>Windows Embedded Handheld 6.5 / Windows CE 6.0 1GHz CPU</li>
+<li>porting USB/Image Scanner/Camera/Battery</li>
+
+<h3>M3 BLACK</h3>
+<li>Windows Embedded Handheld 6.5 / Windows CE 6.0 1GHz CPU</li>
+<li>porting Image Scanner/Camera</li>
