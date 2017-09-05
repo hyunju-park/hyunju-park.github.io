@@ -12,3 +12,5 @@ github_username:  hyunju-park
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
