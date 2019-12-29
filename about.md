@@ -24,6 +24,6 @@ permalink: /about/
 
 <h3>AP(Application Process) type</h3>
 <li>Qualcomm MSM8909/MSM8953</li>
-<li>TI AM37XX<li>
+<li>TI AM37XX</li>
 <li>Marvell(Intell)PXA270/PXA320</li>
 
