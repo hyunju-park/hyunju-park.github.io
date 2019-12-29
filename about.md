@@ -27,3 +27,6 @@ permalink: /about/
 <li>TI AM37XX</li>
 <li>Marvell(Intell)PXA270/PXA320</li>
 
+<h3>other experience</h3>
+<li>Language - C, C++, MFC, C#, Java </li>
+<li>Tool - Embedded Visual C++, Visual Studio, Android Studio, ... </li>
