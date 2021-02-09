@@ -7,8 +7,7 @@ permalink: /about/
 <h2>Developer Mobile Computers</h2>
 
 <h3>OS type</h3>
-<li>Android 9.0</li>
-<li>Android 8.1</li>
+<li>Android 8.1/9/10</li>
 <li>Windows 10 Mobile Iot Enterprise</li>
 <li>Windows Embedded Handheld 6.5</li>
 <li>Windows Mobile 6.1</li>
@@ -16,7 +15,7 @@ permalink: /about/
 <li>Microsoft Windows CE 5.0</li>
 
 <h3>Driver type(porting or intergration)</h3>
-<li>OEM Image Scanner(Honeywell IT5X00, N5600 series/ Zebra SE4500, SE4750, SE4850 series)  </li>
+<li>OEM Image Scanner(Honeywell IT5X00, N5600 series/ Zebra SE4500, SE4750, SE4770, SE4850 series)  </li>
 <li>LCD</li>
 <li>CMOS Camera(Parallel)</li>
 <li>fuel gauge</li>
@@ -28,5 +27,6 @@ permalink: /about/
 <li>Marvell(Intell)PXA270/PXA320</li>
 
 <h3>other experience</h3>
+<li>Certification - Android 9/10 GMS, Android 9 AER  </li>
 <li>Language - C, C++, MFC, C#, Java </li>
 <li>Tool - Embedded Visual C++, Visual Studio, Android Studio, ... </li>
